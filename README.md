@@ -3,6 +3,7 @@
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 
+
 ## Languages 
  -English
  -Spanish
@@ -18,3 +19,4 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Skills
  - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
  - Loading
+
